@@ -1,1 +1,18 @@
+body{
+  font-family: Arial;
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+  background: #f4f4f4;
+}
 
+#output{
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
+
+h1{
+  color: #333;
+}
